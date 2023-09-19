@@ -11,4 +11,4 @@ python binary_search
 ```
 you should end up with the following output
 
-![Screenshot 2023-09-18 210311](https://github.com/carlosbanales/binary_search_python/assets/16022204/5175a32f-64ba-444e-8666-e21d8faa93fd)
+![Screenshot 2023-09-18 210311](https://github.com/carlosbanales/binary_search_python/assets/16022204/697dccfc-0257-4e5a-a4f6-71dec02a4e00)
