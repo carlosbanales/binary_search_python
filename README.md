@@ -7,7 +7,7 @@ git clone https://github.com/carlosbanales/binary_search_python.git
 ```
 then
 ```console
-python binary_search
+python binary_search.py
 ```
 you should end up with the following output
 
